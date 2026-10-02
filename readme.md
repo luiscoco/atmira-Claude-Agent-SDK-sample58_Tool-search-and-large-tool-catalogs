@@ -1,4 +1,4 @@
-# 58. Tool search and large tool catalogs
+# Tool search and large tool catalogs
 
 Run `npm ci`, then `npm run dev` with Node 24 or newer. Open **Tools & extensions → 58. Tool search and large tool catalogs**, or `?lesson=58`. Sample58 uses backend port **3058**, with Vite on **5173** or the next available port.
 
